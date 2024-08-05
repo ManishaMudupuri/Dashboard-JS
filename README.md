@@ -1,6 +1,17 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm install
+npm install react-scripts
+
+npx create-react-app proven-energy-dashboard
+cd proven-energy-dashboard
+
+npm install react-router-dom axios chart.js react-chartjs-2 @mui/material @emotion/react @emotion/styled
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install recharts
+npm start
 
 ## Available Scripts
 
